@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Felix Prasanna</title>
+    <subtitle>I&#x27;m an MIT student who enjoys writing and thinking about performance engineering, compilers, and other things low-level.</subtitle>
+    <link href="https://fprasx.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://fprasx.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-01-04T00:00:00+00:00</updated>
+    <id>https://fprasx.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Doing First Grade Math in Rust&#x27;s Type System</title>
+        <published>2024-01-04T00:00:00+00:00</published>
+        <updated>2024-01-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://fprasx.github.io/articles/type-system-arithmetic/" type="text/html"/>
+        <id>https://fprasx.github.io/articles/type-system-arithmetic/</id>
+        
+        <summary type="html">&lt;p&gt;Arithmetic is hard. Luckily, we can fix that using Rust&#x27;s Expressive Type
+System™️.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>About Me</title>
+        <published>2024-01-01T00:00:00+00:00</published>
+        <updated>2024-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://fprasx.github.io/about/" type="text/html"/>
+        <id>https://fprasx.github.io/about/</id>
+        
+        <summary type="html">&lt;p&gt;Hello!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Reflections and Advice on College Admissions</title>
+        <published>2023-02-04T00:00:00+00:00</published>
+        <updated>2023-02-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://fprasx.github.io/articles/college-advice/" type="text/html"/>
+        <id>https://fprasx.github.io/articles/college-advice/</id>
+        
+        <summary type="html">&lt;p&gt;What it says on the tin: &lt;a href=&quot;&#x2F;CollegeAdvice.pdf&quot;&gt;CollegeAdvice.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Write Yourself a Concurrent Vector</title>
+        <published>2022-06-01T00:00:00+00:00</published>
+        <updated>2022-06-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://fprasx.github.io/articles/write-a-concurrent-vector/" type="text/html"/>
+        <id>https://fprasx.github.io/articles/write-a-concurrent-vector/</id>
+        
+        <summary type="html">&lt;p&gt;Book detailing the process, techniques, and challenges associated with implementing
+a lock-free, thread-safe vector:
+&lt;a href=&quot;&#x2F;concurrent-vector-book&#x2F;index.html&quot;&gt;Writing a Concurrent Vector in Rust&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
